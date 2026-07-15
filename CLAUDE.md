@@ -4,6 +4,14 @@ Standing rules and preferences the owner established during Paper Trail
 development (ported 2026-07-15 from ~/paper-trail-main). Follow them;
 don't re-litigate without asking.
 
+## Project context
+
+- Only TWO people work on this project: the owner (developer) and one
+  non-technical partner. The 企业微信 enterprise / legal entity exists
+  solely for the two of them — there are no other stakeholders, so the
+  owner can and should get FULL admin access to the 管理后台 rather
+  than working through minimal-trust handoffs.
+
 ## Hard rules
 
 - **NEVER force push** — any ref, any reason. History is append-only;
